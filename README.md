@@ -1,4 +1,4 @@
-📘 README: Open Badge Wallet
+Open Badge Wallet
 1. Project Title
 Open Badge Wallet – Credential Storage using NFTs on Stacks
 
