@@ -20,7 +20,8 @@ The vision is to empower learners and professionals to own and manage their cred
 🎓 Badge Categories: Add classification for academic, corporate, and community credentials.
 
 5. Contract Add (Summary)
-This smart contract contains two core functions:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/67a4c6b4-c08b-4bd3-89f8-316f73e5516d" />
 
 issue-badge: Mints a unique NFT to a user with a badge name. Only the user can mint for themselves.
 
